@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.card {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.pPrecio {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.pNota {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: darkgrey;
+}
